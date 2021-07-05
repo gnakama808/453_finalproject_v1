@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">453_finalproject_v1</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome to the Expense Tracking System!</string>
+    <string name="enter">Enter</string>
+    <string name="username">Username</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Signup</string>
+    <string name="user_registration">User Registration</string>
+    <string name="new_password">New password</string>
+    <string name="new_username">New username</string>
+    <string name="please_re_type_password">Please re-type password</string>
+    <string name="email">Email</string>
+    <string name="register_your_new_account">Register your new account</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="expense_tracking_system">Expense Tracking System</string>
+    <string name="button_report">Reports</string>
+    <string name="list_of_expenses">List of Expenses</string>
+    <string name="annual_saving">Annual Saving:</string>
+    <string name="daily_income">Daily Income:</string>
+    <string name="desired_income">Desired Income:</string>
+    <string name="annual_income">Annual Income:</string>
+    <string name="daily_savings">Daily Savings:</string>
+</resources>
