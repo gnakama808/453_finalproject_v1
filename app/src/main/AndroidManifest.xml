@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.453_finalproject_v1">
-        <activity android:name=".Reports"></activity>
+        <activity android:name=".Calculator"></activity>
+        <activity android:name=".Reports" />
         <activity android:name=".Setting" />
         <activity android:name=".Signup" />
         <activity android:name=".Login" />

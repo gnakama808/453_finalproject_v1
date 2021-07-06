@@ -53,7 +53,7 @@ public class Signup extends AppCompatActivity {
                 dbHelper.insertUser("galen2","123abc","gnak808@gmail.com");
 
 
-                //dbHelper.insertUser(username,password,email); //This will add the user to the database
+                dbHelper.insertUser(username,password,email); //This will add the user to the database
 
 
                 Intent intent = new Intent(getApplicationContext(),Login.class);

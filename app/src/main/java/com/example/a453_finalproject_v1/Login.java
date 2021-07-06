@@ -65,11 +65,9 @@ public class Login extends AppCompatActivity {
 
 
 
-
-
                 //If user exists
                 if (true) {
-                    Toast.makeText(getApplicationContext(),"Welcome, "+user+"!!!!!",Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(),"Welcome, "+user+"!",Toast.LENGTH_LONG).show();
                     Intent intent = new Intent(getApplicationContext(), Setting.class);
                     startActivity(intent);
                 }
