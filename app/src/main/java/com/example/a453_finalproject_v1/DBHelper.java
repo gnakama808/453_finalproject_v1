@@ -14,10 +14,12 @@ public class DBHelper extends SQLiteOpenHelper {
     public static final String USER_PASSWORD = "password";
     public static final String USER_EMAIL = "email";
 
-    public static final int USER_DAILY_EXPENSES = 0;
-    public static final int USER_WEEKLY_EXPENSES = 0;
-    public static final int USER_TOTAL = 0;
-
+    public static final String USER_TABLE_NAME_2 = "money";
+    public static final int USER_ANNUAL_INCOME = 0;
+    public static final int USER_DAILY_INCOME = 0;
+    public static final int USER_DESIRED_INCOME = 0;
+    public static final int USER_ANNUAL_SAVINGS = 0;
+    public static final int USER_DAILY_SAVINGS = 0;
 
     public DBHelper(Context context) {
         super(context, DATABASE_NAME, null, 1);
